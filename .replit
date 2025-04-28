@@ -3,3 +3,4 @@ entrypoint = "README.md"
 
 [nix]
 channel = "stable-24_05"
+packages = ["cowsay"]
